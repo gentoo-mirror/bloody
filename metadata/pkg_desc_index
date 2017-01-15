@@ -3,4 +3,5 @@ media-gfx/krita 3.0.99.91 3.1_rc1 3.1.1 3.1.1-r1 3.1.9999: Free digital painting
 media-gfx/palette-editor 0.0.7: Python scripts to work with colors and color palettes.
 media-gfx/pencil 9999: A Qt4 based animation and drawing program
 media-gfx/raghukamath-krita-brushpresets 2.0: Raghukamath's Krita Brushkit
+media-libs/libmypaint 1.3.0: Library for making brushstrokes
 net-print/gutenprint 5.2.12_pre4: Ghostscript and cups printer drivers

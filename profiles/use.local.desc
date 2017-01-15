@@ -8,3 +8,4 @@ media-gfx/palette-editor:pillow - Loading raster images as palettes
 media-gfx/palette-editor:scikit-learn - alternate for loading raster images as palettes
 media-gfx/palette-editor:scipy - Add support for sci-libs/scipy
 media-gfx/palette-editor:tinycss - Partsing CSS files
+media-libs/libmypaint:gegl - Add support for media-libs/gegl
