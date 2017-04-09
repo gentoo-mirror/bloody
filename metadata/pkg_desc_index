@@ -5,3 +5,4 @@ media-gfx/pencil 9999: A Qt4 based animation and drawing program
 media-gfx/raghukamath-krita-brushpresets 2.0: Raghukamath's Krita Brushkit
 media-libs/libmypaint 1.3.0: Library for making brushstrokes
 net-print/gutenprint 5.2.12_pre4: Ghostscript and cups printer drivers
+x11-drivers/xf86-input-wacom 0.34.2: Driver for Wacom tablets and drawing devices
