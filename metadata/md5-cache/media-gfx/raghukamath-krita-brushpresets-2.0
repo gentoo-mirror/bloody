@@ -6,5 +6,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=CC0-1.0
 SLOT=0
 SRC_URI=https://github.com/raghukamath/krita-brush-presets/raw/v2.0/bundles/Raghukamath-Brush-Pack.bundle -> raghukamath-krita-brushpresets-2.0.bundle
-_eclass_exported_funcs=src_install:-
 _md5_=685198adfda414ab0ebed02f9e6f2f97
