@@ -2,3 +2,10 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+media-gfx/krita:color-management - Enable color management via media-libs/opencolorio
+media-gfx/krita:qtmedia - Enable sound support for animations via dev-qt/qtmultimedia
+media-gfx/krita:vc - Enable support for dev-libs/vc, could be a significant speed boost
+media-gfx/palette-editor:pillow - Loading raster images as palettes
+media-gfx/palette-editor:scikit-learn - alternate for loading raster images as palettes
+media-gfx/palette-editor:scipy - Add support for sci-libs/scipy
+media-gfx/palette-editor:tinycss - Partsing CSS files
